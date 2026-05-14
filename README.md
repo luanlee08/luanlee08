@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;C%23+%7C+ASP.NET+Core+Developer;NestJS+%7C+Node.js+Developer;Always+Learning+New+Technologies&center=true&width=650&height=50&color=BB00FF&vCenter=true&pause=1000&size=28" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;C%23+%7C+ASP.NET+Core+Developer;NestJS+%7C+Node.js+Developer;React+%7C+Flutter+Developer;Always+Learning+New+Technologies&center=true&width=700&height=50&color=BB00FF&vCenter=true&pause=1000&size=28" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 💻 Passionate Backend Developer specializing in C# and modern web technologies.  
 🌱 Love researching, exploring, and learning new technologies.  
-⚡ Capable of developing web applications using C#, NestJS, Node.js, and PHP.  
+⚡ Capable of developing web applications using C#, NestJS, Node.js, PHP, React, and Flutter.  
 🎓 FPT University Graduate 2026.  
 🤝 Experienced in teamwork, communication, and collaborative project development.  
 
@@ -31,8 +31,19 @@
 
 # 🛠 Tech Stack
 
+## 💻 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,nodejs,php,mysql,redis,docker,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,nodejs,php" />
+</p>
+
+## 🎨 Frontend & Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,tailwind" />
+</p>
+
+## 🗄 Database & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,git,github,postman,vscode" />
 </p>
 
 ---
@@ -62,6 +73,7 @@
 - System Design
 - Redis & SignalR
 - AI Integration in Web Applications
+- Flutter & Cross-platform Development
 
 ---
 
